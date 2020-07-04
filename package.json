@@ -1,0 +1,15 @@
+{
+  "name": "com.richard.hello",
+  "version": "0.0.1",
+  "displayName": "Hello World",
+  "unity": "2019.1",
+  "keywords": [
+    "code, art"
+  ],
+  "author": {
+    "name": "Richard",
+    "email": "richard@nowhere.com",
+    "url": "www.google.com"
+  },
+  "description": "A little test of the package manager"
+}
